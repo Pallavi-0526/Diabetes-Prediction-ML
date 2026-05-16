@@ -47,7 +47,7 @@ Diabetes is one of the most common diseases affecting millions worldwide. Early 
 
 ## 📈 Visualizations
 
-![Diabetes ML Dashboard](diabetes_charts.png)
+![Diabetes ML Dashboard](diabetes_ml_dashboard.png)
 
 ---
 
